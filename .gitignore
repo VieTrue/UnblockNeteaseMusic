@@ -1,6 +1,7 @@
 # IDE
 .vscode
 .idea
+.github
 
 # Logs
 logs
